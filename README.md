@@ -4,6 +4,8 @@
 **This project performs an exploratory data analysis (EDA) on the Zomato dataset to uncover insights about restaurants, cuisines, ratings, and locations.
 The goal is to understand the factors influencing restaurant success, food preferences, and regional patterns, providing valuable information for stakeholders in the food industry.**
 
+![Uploading image.png…]()
+
 ### Key Features
 **Data Cleaning: Handling missing values, correcting data types, and normalizing textual data.
 Exploratory Data Analysis:
