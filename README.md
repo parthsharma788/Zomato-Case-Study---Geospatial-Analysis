@@ -4,8 +4,6 @@
 **This project performs an exploratory data analysis (EDA) on the Zomato dataset to uncover insights about restaurants, cuisines, ratings, and locations.
 The goal is to understand the factors influencing restaurant success, food preferences, and regional patterns, providing valuable information for stakeholders in the food industry.**
 
-![Uploading image.png…]()
-
 ### Key Features
 **Data Cleaning: Handling missing values, correcting data types, and normalizing textual data.
 Exploratory Data Analysis:
@@ -29,5 +27,8 @@ The correlation between restaurant rating and average cost for two people.**
 
 **The end result will be delivered through visualizations, statistics, and perhaps even geospatial maps**
 
-## Author - Parth Sharma
-## Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283
+### Author - Parth Sharma
+#### Linkedin - http://www.linkedin.com/in/parth-sharma-8288a7283
+#### 📧 Email: Parthsharma2300@gmail.com
+
+⭐ If you found this helpful, consider giving it a star!
