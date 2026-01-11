@@ -14,9 +14,9 @@ Geospatial Analysis: Mapping the distribution of restaurants by city and rating 
 ### Tools Used
 **Python:** The core programming language for analysis.
 **Libraries:**
-pandas: For data manipulation and cleaning.
-matplotlib and seaborn: For visualizing patterns.
-folium: For geospatial analysis.
+**pandas**: For data manipulation and cleaning.
+**matplotlib and seaborn**: For visualizing patterns.
+**folium**: For geospatial analysis.
 
 ### Results
 **The analysis highlights the key factors influencing restaurant success, such as:**
